@@ -1,10 +1,5 @@
-# Beginner — Data Structures and Algorithms
 
-This section covers the foundational concepts of Data Structures and Algorithms required to build strong problem-solving skills and confidently solve LeetCode Easy problems.
-
-The focus here is on understanding basic data structures, algorithmic thinking, and common patterns before moving on to more complex topics.
-
-## Topics Covered
+# Topics Covered
 
 ### Core Foundations
 - Time and space complexity (basic understanding)
